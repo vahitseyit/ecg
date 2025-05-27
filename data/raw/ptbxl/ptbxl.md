@@ -1,1 +1,1 @@
-ptbxl verilerini buraya ekleyin
+ptbxl verilerini bu dizine ekleyin
