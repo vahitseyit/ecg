@@ -1,10 +1,17 @@
 ├── core/ # Model ve yardımcı kodlar.
+
 ├── models_artifacts/ # Eğitilmiş model ağırlıkları.
+
 ├── data/ # Ham veri (PTB-XL).
+
 ├── notebooks/ # Jupyter analiz defterleri.
+
 ├── tests/ # Otomatik testler.
+
 ├── apps/ # Web uygulaması.
+
 ├── README.md.
+
 
 
 ---
